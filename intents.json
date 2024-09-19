@@ -1,0 +1,1301 @@
+{
+    "intents":[
+
+        {
+            "tag": "Greetings",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "hi",
+                "hello",
+                "hey there",
+                "good morning",
+                "good afternoon",
+                "good evening",
+                "hiya",
+                "greetings",
+                "what's up",
+                "howdy",
+                "yo",
+                "hey!",
+                "hi there",
+                "hello there",
+                "hey buddy",
+                "how's it going",
+                "what's good"
+            ],
+            "responses": [
+                "Hello, how can I help you?"
+            ]
+        },
+        
+        {
+            "tag": "fracture",
+            "patterns": [
+                "How can I treat a fracture naturally?",
+                "What is the remedy for a fracture?",
+                "Can you suggest a natural cure for fractures?",
+                "What are some home remedies for fractures?",
+                "How to heal a broken bone naturally?",
+                "What should I do if I have a fracture?",
+                "How do you treat a bone fracture at home?",
+                "What are the best natural treatments for fractures?",
+                "How can I speed up fracture healing with natural remedies?",
+                "What is the best way to recover from a fracture using home remedies?"
+            ],
+            "responses": [
+                "Mix a very small amount of chuna (quick lime) in yogurt for treating fractures."
+            ]
+        },
+        {
+            "tag": "mosquito_repellent",
+            "patterns": [
+                "How to repel mosquitoes?",
+                "Natural mosquito repellent?",
+                "Mosquito remedy?",
+                "How can I keep mosquitoes away naturally?",
+                "What is the best remedy for mosquitoes?",
+                "What can I use to repel mosquitoes at home?",
+                "How to prevent mosquito bites with natural remedies?",
+                "What home remedies work against mosquitoes?",
+                "Can you suggest a natural solution for mosquitoes?",
+                "How do I make a DIY mosquito repellent?"
+            ],
+            "responses": [
+                "Take Neem oil and light a diya (lamp) in that oil to repel mosquitoes."
+            ]
+        },
+        {
+            "tag": "hyperthyroidism",
+            "patterns": [
+                "What can I do for hyperthyroidism?",
+                "Natural remedy for hyperthyroidism?",
+                "Hyperthyroidism treatment?",
+                "How can I manage hyperthyroidism naturally?",
+                "What are home remedies for hyperthyroidism?",
+                "How to control hyperthyroidism naturally?",
+                "What are the best natural treatments for hyperthyroidism?",
+                "How can I treat hyperthyroidism without medication?",
+                "Are there natural ways to treat hyperthyroidism?",
+                "What lifestyle changes help with hyperthyroidism?"
+            ],
+            "responses": [
+                "Make a paste of dhaniya (coriander) and take 1 spoon of the paste with half a glass of hot water daily for 1-1.5 months."
+            ]
+        },
+        {
+            "tag": "hemorrhoids",
+            "patterns": [
+                "How to treat hemorrhoids?",
+                "Natural remedy for piles?",
+                "Piles treatment?",
+                "What is the best natural treatment for hemorrhoids?",
+                "How can I relieve hemorrhoid pain naturally?",
+                "What home remedies can I use for piles?",
+                "How do I get rid of hemorrhoids at home?",
+                "Are there any natural cures for hemorrhoids?",
+                "How to reduce hemorrhoid swelling naturally?",
+                "What can I do for piles relief without medication?"
+            ],
+            "responses": [
+                "Drink muli (Japanese radish) juice twice a day after eating or soak kishmish (raisins) in water overnight and consume them along with the water in the morning. Drinking angur (grape) or tomato juice also helps."
+            ]
+        },
+        {
+            "tag": "high_bp",
+            "patterns": [
+                "How to lower high blood pressure?",
+                "Natural remedy for high BP?",
+                "High BP treatment?",
+                "What are natural ways to lower blood pressure?",
+                "How can I reduce high blood pressure at home?",
+                "What is the best natural treatment for high blood pressure?",
+                "How do I manage high BP without medication?",
+                "What can I do to lower my blood pressure naturally?",
+                "Are there home remedies for high blood pressure?",
+                "How to control hypertension naturally?"
+            ],
+            "responses": [
+                "Take bael patra (Aegle marmelos) paste, add it to water, and boil until the water reduces by half. Let it cool, then drink it."
+            ]
+        },
+        {
+            "tag": "increase_sperm_count",
+            "patterns": [
+                "How to increase sperm count?",
+                "Natural remedy for low sperm count?",
+                "Low sperm count treatment?",
+                "What are natural ways to increase sperm count?",
+                "How can I boost my sperm count naturally?",
+                "What is the best remedy for low sperm count?",
+                "How do I improve sperm production naturally?",
+                "What can I do to raise my sperm count at home?",
+                "Are there home remedies for increasing sperm count?",
+                "How to improve sperm quality and quantity naturally?"
+            ],
+            "responses": [
+                "Take 1 drop of laung (clove) oil with 1 spoon of hot water daily or drink laung (clove) water every day."
+            ]
+        },
+        {
+            "tag": "spondylitis_pain",
+            "patterns": [
+                "How to relieve spondylitis pain?",
+                "Natural remedy for spondylitis pain?",
+                "Spondylitis pain relief?",
+                "What are natural ways to reduce spondylitis pain?",
+                "How can I manage spondylitis pain at home?",
+                "What is the best natural treatment for spondylitis?",
+                "How do I relieve spondylitis pain without medication?",
+                "What can I do to ease spondylitis discomfort naturally?",
+                "Are there home remedies for spondylitis pain relief?",
+                "How to control spondylitis pain naturally?"
+            ],
+            "responses": [
+                "Mix a very small amount of chuna (quick lime) in yogurt, water, or dal for spondylitis pain relief."
+            ]
+        },
+        {
+            "tag": "osteoporosis",
+            "patterns": [
+                "How to treat osteoporosis?",
+                "Natural remedy for osteoporosis?",
+                "Osteoporosis treatment?",
+                "What are natural ways to treat osteoporosis?",
+                "How can I manage osteoporosis naturally?",
+                "What is the best natural treatment for osteoporosis?",
+                "How do I strengthen my bones if I have osteoporosis?",
+                "What can I do for osteoporosis without medication?",
+                "Are there home remedies for osteoporosis?",
+                "How to improve bone density naturally?"
+            ],
+            "responses": [
+                "Mix a very small amount of chuna (quick lime) in yogurt, water, or dal for osteoporosis treatment."
+            ]
+        },
+        {
+            "tag": "coughing",
+            "patterns": [
+                "How to stop coughing?",
+                "Natural remedy for cough?",
+                "Cough treatment?",
+                "What are natural ways to stop coughing?",
+                "How can I relieve a cough naturally?",
+                "What is the best remedy for a persistent cough?",
+                "How do I treat a cough without medication?",
+                "What can I do to stop coughing at home?",
+                "Are there home remedies for cough relief?",
+                "How to soothe a sore throat and cough naturally?"
+            ],
+            "responses": [
+                "Boil anar (pomegranate) juice and drink it or take 2 pieces of kalimirch (black pepper) and suck on them."
+            ]
+        },
+        {
+            "tag": "increase_height",
+            "patterns": [
+                "How to increase height?",
+                "Natural way to grow taller?",
+                "Increase height naturally?",
+                "What are natural ways to grow taller?",
+                "How can I improve my height naturally?",
+                "What is the best natural method to increase height?",
+                "How to grow taller without medication?",
+                "Are there natural remedies for height growth?",
+                "How do I boost my height naturally?",
+                "What can I do to increase height naturally?"
+            ],
+            "responses": [
+                "Eat a very small amount of chuna (quick lime) daily for 1 year."
+            ]
+        },
+        {
+            "tag": "tb",
+            "patterns": [
+                "How to treat tuberculosis?",
+                "Natural remedy for TB?",
+                "TB treatment?",
+                "What are natural ways to treat tuberculosis?",
+                "How can I manage TB symptoms naturally?",
+                "What is the best natural treatment for TB?",
+                "How do I treat tuberculosis without medication?",
+                "Are there home remedies for tuberculosis?",
+                "How to support tuberculosis treatment with natural methods?",
+                "What can I do to help with TB recovery naturally?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "cancer",
+            "patterns": [
+                "How to treat tuberculosis?",
+                "Natural remedy for TB?",
+                "TB treatment?",
+                "What are natural ways to treat tuberculosis?",
+                "How can I manage TB symptoms naturally?",
+                "What is the best natural treatment for TB?",
+                "How do I treat tuberculosis without medication?",
+                "Are there home remedies for tuberculosis?",
+                "How to support tuberculosis treatment with natural methods?",
+                "What can I do to help with TB recovery naturally?"
+            ],
+            "responses": [
+                "Drink haldi (turmeric) in hot milk or consume haldi (turmeric) regularly."
+            ]
+        },
+        {
+            "tag": "cough",
+            "patterns": [
+                "What is a natural remedy for a cough?",
+                "How to get rid of a cough?",
+                "Cough relief?",
+                "What are natural ways to relieve a cough?",
+                "How can I ease a cough naturally?",
+                "What is the best remedy for a cough?",
+                "How do I stop coughing with home remedies?",
+                "What can I do to relieve a cough at home?",
+                "Are there effective natural treatments for a cough?",
+                "How to soothe a cough using natural methods?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "weight_loss",
+            "patterns": [
+                "How to lose weight naturally?",
+                "Natural remedy for fat loss?",
+                "Weight loss treatment?",
+                "What are natural ways to lose weight?",
+                "How can I reduce weight without medication?",
+                "What is the best natural method for fat loss?",
+                "How do I achieve weight loss with home remedies?",
+                "Are there natural treatments for losing weight?",
+                "How to manage weight loss naturally?",
+                "What lifestyle changes help with natural weight loss?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "cardiac_arrest",
+            "patterns": [
+                "How to prevent cardiac arrest?",
+                "Natural remedy for heart issues?",
+                "Cardiac arrest prevention?",
+                "What are natural ways to prevent heart problems?",
+                "How can I reduce the risk of cardiac arrest?",
+                "What is the best way to prevent heart issues naturally?",
+                "How do I protect my heart health without medication?",
+                "Are there home remedies for preventing cardiac arrest?",
+                "How to maintain heart health and prevent cardiac arrest?",
+                "What lifestyle changes help prevent cardiac arrest?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "body_pain",
+            "patterns": [
+                "How to relieve body pain?",
+                "Natural remedy for body pain?",
+                "Body pain treatment?",
+                "What are natural ways to relieve body pain?",
+                "How can I manage body pain naturally?",
+                "What is the best remedy for body pain?",
+                "How do I treat body pain without medication?",
+                "What can I do to ease body pain at home?",
+                "Are there home remedies for body pain relief?",
+                "How to soothe body pain using natural methods?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "joint_pain",
+            "patterns": [
+                "How to relieve joint pain?",
+                "Natural remedy for joint pain?",
+                "Joint pain treatment?",
+                "What are natural ways to relieve joint pain?",
+                "How can I manage joint pain naturally?",
+                "What is the best remedy for joint pain?",
+                "How do I treat joint pain without medication?",
+                "What can I do to ease joint pain at home?",
+                "Are there home remedies for joint pain relief?",
+                "How to soothe joint pain using natural methods?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "brain_hemorrhage",
+            "patterns": [
+                "How to prevent brain hemorrhage?",
+                "Natural remedy for brain hemorrhage?",
+                "Brain hemorrhage prevention?",
+                "What are natural ways to prevent brain hemorrhage?",
+                "How can I reduce the risk of brain hemorrhage?",
+                "What is the best way to prevent brain hemorrhage naturally?",
+                "How do I protect my brain health to avoid hemorrhage?",
+                "Are there home remedies for preventing brain hemorrhage?",
+                "How to maintain brain health and prevent hemorrhage?",
+                "What lifestyle changes help prevent brain hemorrhage?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+       
+        {
+            "tag": "increase_fairness",
+            "patterns": [
+                "How to increase fairness?",
+                "Natural way to improve skin tone?",
+                "Fairness treatment?",
+                "What are natural ways to improve skin fairness?",
+                "How can I achieve a more even skin tone naturally?",
+                "What is the best natural remedy for skin fairness?",
+                "How do I enhance my skin tone without chemicals?",
+                "Are there home remedies for improving skin fairness?",
+                "How to achieve a brighter skin tone naturally?",
+                "What lifestyle changes can help with skin fairness?"
+            ],
+            "responses": [
+                "Eat haldi (turmeric) or mix it in water and drink."
+            ]
+        },
+        {
+            "tag": "asthma",
+            "patterns": [
+                "How to treat asthma?",
+                "Natural remedy for asthma?",
+                "Asthma treatment?",
+                "What are natural ways to manage asthma?",
+                "How can I control asthma symptoms naturally?",
+                "What is the best natural treatment for asthma?",
+                "How do I manage asthma without medication?",
+                "Are there home remedies for asthma relief?",
+                "How to reduce asthma symptoms using natural methods?",
+                "What lifestyle changes can help with asthma control?"
+            ],
+            "responses": [
+                "Take 1 spoon of dal chini (cinnamon) powder and 1 spoon of honey, mix them, and eat in the morning."
+            ]
+        },
+        {
+            "tag": "indigestion",
+            "patterns": [
+                "How to treat indigestion?",
+                "Natural remedy for indigestion?",
+                "Indigestion relief?",
+                "What are natural ways to relieve indigestion?",
+                "How can I manage indigestion naturally?",
+                "What is the best natural treatment for indigestion?",
+                "How do I relieve indigestion without medication?",
+                "Are there home remedies for indigestion?",
+                "How to soothe indigestion using natural methods?",
+                "What lifestyle changes can help with indigestion relief?"
+            ],
+            "responses": [
+                "Take 1/2 spoon of jeera (cumin) and 1/2 glass of water, mix, boil, then drink the water and eat the jeera."
+            ]
+        },
+        {
+            "tag": "dry_cough",
+            "patterns": [
+                "How to treat a dry cough?",
+                "Natural remedy for dry cough?",
+                "Dry cough treatment?",
+                "What are natural ways to relieve a dry cough?",
+                "How can I manage a dry cough naturally?",
+                "What is the best natural treatment for a dry cough?",
+                "How do I soothe a dry cough without medication?",
+                "Are there home remedies for dry cough relief?",
+                "How to ease a dry cough using natural methods?",
+                "What lifestyle changes can help with dry cough relief?"
+            ],
+            "responses": [
+                "Make a powder by mixing dry ginger, black pepper, and peepal in equal quantities. Take one spoon in the morning and evening."
+            ]
+        },
+        {
+            "tag": "stomach_ache",
+            "patterns": [
+                "How to treat a stomach ache?",
+                "Natural remedy for stomach ache?",
+                "Stomach ache treatment?",
+                "What are natural ways to relieve a stomach ache?",
+                "How can I manage a stomach ache naturally?",
+                "What is the best natural treatment for a stomach ache?",
+                "How do I ease a stomach ache without medication?",
+                "Are there home remedies for stomach ache relief?",
+                "How to soothe a stomach ache using natural methods?",
+                "What lifestyle changes can help with stomach ache relief?"
+            ],
+            "responses": [
+                "Take celery (ajwain) powder mixed with honey or mix a pinch of asafoetida (hing) and rock salt in one gram of dry ginger (sonth) powder and consume with water in the morning and evening."
+            ]
+        },
+        {
+            "tag": "ulcer",
+            "patterns": [
+                "How to treat an ulcer?",
+                "Natural remedy for ulcers?",
+                "Ulcer treatment?",
+                "What are natural ways to treat ulcers?",
+                "How can I manage ulcers naturally?",
+                "What is the best natural treatment for ulcers?",
+                "How do I relieve ulcer symptoms without medication?",
+                "Are there home remedies for ulcers?",
+                "How to soothe an ulcer using natural methods?",
+                "What lifestyle changes can help with ulcer management?"
+            ],
+            "responses": [
+                "Grind red hibiscus flowers, make juice with an equal quantity of water, and take it on an empty stomach in the morning."
+            ]
+        },
+        {
+            "tag": "constipation",
+            "patterns": [
+                "How to treat constipation?",
+                "How can I relieve constipation at home?",
+                "What foods help relieve constipation?",
+                "Are there any herbal remedies for constipation?",
+                "How can I manage constipation naturally?",
+                "What is the best natural remedy for constipation?",
+                "How do I ease constipation without medication?",
+                "What home remedies are effective for constipation?",
+                "How to improve bowel movements naturally?",
+                "What lifestyle changes can help with constipation relief?"
+            ],
+            "responses": [
+                "Take sauni, black bamchug, and peepal in the garri; take one spoon each.",
+                "Constipation is cured by eating two teaspoons of Etherlo with milk.",
+                "Constipation is cured by taking a spoonful of milk with milk.",
+                "Constipation is cured by eating good papaya with food.",
+                "Sauni, green carom seeds should be boiled in water in equal quantity, and the water should be taken."
+            ]
+        },
+        {
+            "tag": "abdominal pain",
+            "patterns": [
+                "How to treat abdominal pain?",
+                "How can I relieve stomach pain at home?",
+                "What herbs can help soothe abdominal pain?",
+                "How do I manage abdominal pain naturally?",
+                "What is the best natural remedy for stomach pain?",
+                "How to ease abdominal pain without medication?",
+                "Are there home remedies for abdominal pain relief?",
+                "How to soothe stomach pain using natural methods?",
+                "What lifestyle changes can help with abdominal pain relief?",
+                "How to reduce abdominal pain at home?"
+            ],
+            "responses": [
+                "Taking carom seeds powder mixed with honey cures indigestion.",
+                "Take carom seeds and salt mixture with water.",
+                "Mix a pinch of henna and rock salt in one gram of fennel powder and consume it with water in the morning."
+            ]
+        },
+        {
+            "tag": "diarrhea",
+            "patterns": [
+                "How to treat diarrhea?",
+                "How can I stop diarrhea at home?",
+                "What foods should I eat to recover from diarrhea?",
+                "What are natural remedies for diarrhea?",
+                "How can I manage diarrhea naturally?",
+                "What is the best natural treatment for diarrhea?",
+                "How do I ease diarrhea symptoms without medication?",
+                "Are there home remedies for diarrhea relief?",
+                "How to soothe diarrhea using natural methods?",
+                "What lifestyle changes can help with diarrhea recovery?"
+            ],
+            "responses": [
+                "Eat the powder of roasted cumin seeds with curd.",
+                "Roast a little fennel seeds on low flame, make its powder, and take it with buttermilk.",
+                "Making a decoction of celery leaves, cinnamon, and ¼ quantity of catechu and drinking it stops diarrhea immediately.",
+                "Drinking rice flour mixed with a little black salt and a little roasted asafoetida gives relief in diarrhea.",
+                "Grind 5-10 grains of basil and take it with milk."
+            ]
+        },
+        {
+            "tag": "jaundice",
+            "patterns": [
+                "How to treat jaundice?",
+                "How can I treat jaundice at home?",
+                "What foods should be consumed during jaundice recovery?",
+                "What are natural remedies for jaundice?",
+                "How can I manage jaundice naturally?",
+                "What is the best natural treatment for jaundice?",
+                "How do I ease jaundice symptoms without medication?",
+                "Are there home remedies for jaundice relief?",
+                "How to soothe jaundice using natural methods?",
+                "What lifestyle changes can help with jaundice recovery?"
+            ],
+            "responses": [
+                "Taking one teaspoon of Berloy powder with plain water in the morning and evening is beneficial in jaundice.",
+                "Make a decoction of Berloy powder and add Bamboo and ghee to it and consume it.",
+                "Mix 10 grams of fennel powder with honey and consume it in the morning and evening."
+            ]
+        },
+        {
+            "tag": "low_bp",
+            "patterns": [
+                "How to control low BP?",
+                "What foods help raise blood pressure?",
+                "How can I manage low BP at home?",
+                "What are natural remedies for low blood pressure?",
+                "How can I increase my blood pressure naturally?",
+                "What is the best way to treat low BP without medication?",
+                "How do I relieve symptoms of low blood pressure?",
+                "Are there home remedies for low BP relief?",
+                "How to manage low blood pressure using natural methods?",
+                "What lifestyle changes can help with low blood pressure?"
+            ],
+            "responses": [
+                "Mix honey in water, add salt and lemon juice, and drink it two to three times a day.",
+                "Mix butter in Bamshree and eat it.",
+                "Mix peepal leaf juice with honey and lick it.",
+                "Use raw garlic; grind one or two cloves with garlic and eat it."
+            ]
+        },
+        {
+            "tag": "Heart_pain",
+            "patterns": [
+                "How to cure heart pain?",
+                "How can I relieve heart pain naturally?",
+                "What are some home remedies for chest pain?",
+                "How can I manage heart pain at home?",
+                "What is the best natural treatment for chest pain?",
+                "How do I ease heart pain without medication?",
+                "Are there home remedies for heart pain relief?",
+                "How to soothe heart pain using natural methods?",
+                "What lifestyle changes can help with heart pain?",
+                "How to reduce chest pain naturally?"
+            ],
+            "responses": [
+                "Mix a little honey and cumin seeds in the juice of raw gourd and drink it in the morning for immediate relief.",
+                "Take 10 grams of powder of Ajugan bark and 10 grams of powder of Pashanvaidh, boil it in 500 ml of water, and when the water remains half, filter it and drink it in the morning. This cures heart attack.",
+                "Extract juice of carrot and make soup from it; drinking it gives relief.",
+                "Using garlic is best for this condition. It can be eaten in both cooked and raw forms."
+            ]
+        },
+        {
+            "tag": "y",
+            "patterns": [
+                "How to cure obesity?",
+                "How can I lose weight naturally?",
+                "What are some home remedies for obesity?",
+                "How do I manage obesity through natural methods?",
+                "What is the best natural treatment for obesity?",
+                "How can I reduce obesity without medication?",
+                "Are there home remedies for effective weight loss?",
+                "How to manage weight gain naturally?",
+                "What lifestObesityle changes can help with obesity?",
+                "How to achieve weight loss through natural methods?"
+            ],
+            "responses": [
+                "Drink lemon juice mixed with rock salt in water on an empty stomach in the morning and evening.",
+                "Lick 10 gm of fennel mixed with honey to reduce obesity.",
+                "Take lemon and salt mixed in radish salad.",
+                "Eat a pinch of black pepper after meals."
+            ]
+        },
+        {
+            "tag": "Itchyness",
+            "patterns": [
+                "How to cure itchiness?",
+                "How can I relieve itching naturally?",
+                "What are some home remedies for itchy skin?",
+                "How to stop itching with natural remedies?",
+                "What is the best natural treatment for itchiness?",
+                "How do I manage itchy skin at home?",
+                "Are there home remedies for itching relief?",
+                "How to soothe itchy skin using natural methods?",
+                "What lifestyle changes can help with itchiness?",
+                "How to reduce itching naturally?"
+            ],
+            "responses": [
+                "Mix some camphor in coconut oil, massage it, and apply it to the itchy area.",
+                "Mix some garlic in ghee and apply its paste to the itchy area.",
+                "Mash a ripe banana in lemon juice and apply it to the itchy area.",
+                "Mix roasted suha in water and apply it to relieve itching."
+            ]
+        },
+        {
+            "tag": "Acne",
+            "patterns": [
+                "How to cure acne?",
+                "How can I treat acne naturally?",
+                "What are some home remedies for acne?",
+                "How to manage acne with natural remedies?",
+                "What is the best natural treatment for acne?",
+                "How do I reduce acne without medication?",
+                "Are there home remedies for acne relief?",
+                "How to soothe acne using natural methods?",
+                "What lifestyle changes can help with acne?",
+                "How to improve skin with natural acne treatments?"
+            ],
+            "responses": [
+                "Rub clove with sandalwood and apply it to boils for relief.",
+                "Make a poultice of neem leaves and apply neem bark water to help heal boils quickly.",
+                "Rub clove and apply it to boils for relief.",
+                "Lick honey with turmeric."
+            ]
+        },
+        {
+            "tag": "Ringworm",
+            "patterns": [
+                "How to treat ringworm?",
+                "How can I get rid of ringworm naturally?",
+                "What are some home remedies for ringworm?",
+                "How do I treat ringworm effectively at home?",
+                "What is the best natural treatment for ringworm?",
+                "How can I manage ringworm with natural remedies?",
+                "Are there home remedies for ringworm relief?",
+                "How to soothe ringworm using natural methods?",
+                "What lifestyle changes can help with ringworm?",
+                "How to improve skin condition with natural ringworm treatments?"
+            ],
+            "responses": [
+                "Avoid consuming too many spices, oily foods, pickles, and sour things as these increase the disease. Keep the stomach clean and avoid constipation.",
+                "Mix Suhaara with lemon juice and apply it to ringworm.",
+                "Take roasted Suhaara and roasted Bitkari in equal quantity, make a powder, and apply it to ringworm."
+            ]
+        },
+        {
+            "tag": "Burns",
+            "patterns": [
+                "How to treat burns?",
+                "What are the best home remedies for treating burns?",
+                "How can I soothe a burn naturally?",
+                "What should I do immediately after getting a burn?",
+                "What is the best natural treatment for burns?",
+                "How do I relieve pain from a burn at home?",
+                "Are there home remedies for burn relief?",
+                "How to manage a burn using natural methods?",
+                "What lifestyle changes can help with burn recovery?",
+                "How to care for a burn wound naturally?"
+            ],
+            "responses": [
+                "First, keep the burnt part in cold water.",
+                "Mix a little lime in curd water and apply it to burns caused by oil.",
+                "In case of burns from fire, mix camphor in karpin oil and apply it.",
+                "Mix wax in coconut oil and apply it. If it cools, use it as an ointment.",
+                "Mix multani mitti in curd and apply it to the burnt part."
+            ]
+        },
+        {
+            "tag": "Neurological Issues (Epileptic Seizures)",
+            "patterns": [
+                "What are some natural remedies for epilepsy?",
+                "How can I manage seizures at home?",
+                "What can be done to prevent epileptic seizures naturally?",
+                "Are there home remedies for epilepsy control?",
+                "How to manage epilepsy symptoms with natural methods?",
+                "What lifestyle changes can help with epilepsy?",
+                "How can I reduce the frequency of seizures naturally?",
+                "What natural treatments are effective for epilepsy?",
+                "How to support seizure management using natural remedies?",
+                "What dietary changes can help with epilepsy control?"
+            ],
+            "responses": [
+                "Turn the patient onto their right side during a seizure.",
+                "Avoid feeding anything during the seizure.",
+                "Smell ammonia or lime.",
+                "Consume Brahmi juice with rock salt twice a day.",
+                "Neem leaves, ajwain, and black salt paste for consumption.",
+                "Inhale basil leaves mixed with camphor."
+            ]
+        },
+        {
+            "tag": "Paralysis (Lakva/Pakshaghat)",
+            "patterns": [
+                "What are natural remedies for paralysis?",
+                "How can I manage paralysis at home?",
+                "What are some effective treatments for paralysis?",
+                "Can physical therapy help with paralysis?",
+                "What lifestyle changes can aid in paralysis recovery?",
+                "How to support paralysis recovery using natural methods?",
+                "Are there home remedies for improving mobility in paralysis?",
+                "How can I improve function and movement with paralysis?",
+                "What exercises are beneficial for managing paralysis?",
+                "How to manage symptoms of paralysis naturally?"
+            ],
+            "responses": [
+                "Garlic boiled in milk for drinking.",
+                "Mustard oil mixed with black pepper for massage.",
+                "Basil leaves, rock salt, and yogurt paste applied to the affected area.",
+                "Drink water boiled with dried ginger and black gram."
+            ]
+        },
+        {
+            "tag": "Half CC",
+            "patterns": [
+                "What are natural treatments for excessive mental strain?",
+                "How can I relieve symptoms of harmonic imbalance?",
+                "What remedies can help with gas in the stomach?",
+                "How can I manage anxiety and stress effectively?",
+                "What are some natural ways to reduce mental strain?",
+                "How to relieve stress and anxiety naturally?",
+                "Are there home remedies for managing stress and anxiety?",
+                "How can I soothe symptoms of mental fatigue?",
+                "What lifestyle changes can help with mental strain?",
+                "How to handle stress and anxiety with natural methods?"
+            ],
+            "responses": [
+                "Consume a powder of small pepper (Pippali) with honey.",
+                "Apply the juice of the plantain peel into the nostrils.",
+                "Apply ghee (clarified butter) to the nostrils.",
+                "Apply a paste of henna leaves on the forehead."
+            ]
+        },
+        {
+            "tag": "Back Pain",
+            "patterns": [
+                "What are the best home remedies for back pain?",
+                "How can I relieve back pain naturally?",
+                "What lifestyle changes can help with back pain?",
+                "Are there any exercises that can help with back pain?",
+                "How to manage back pain with natural methods?",
+                "What natural treatments are effective for back pain?",
+                "How can I reduce back pain through lifestyle changes?",
+                "What exercises can alleviate back pain?",
+                "How to soothe back pain using home remedies?",
+                "What are some effective ways to treat back pain at home?"
+            ],
+            "responses": [
+                "Eat finely chopped walnuts on an empty stomach in the morning.",
+                "Massage with coconut oil mixed with camphor.",
+                "Take a powder of fennel, haritaki, and belleric myrobalan.",
+                "Drink a decoction of piper bark."
+            ]
+        },
+        {
+            "tag": "Memory Loss",
+            "patterns": [
+                "What are some effective natural remedies for memory loss?",
+                "How can I improve memory with dietary changes?",
+                "What exercises can boost cognitive function?",
+                "Are there specific supplements or herbs that support memory?",
+                "How to enhance memory using natural methods?",
+                "What lifestyle changes can aid in improving memory?",
+                "How can I support cognitive health with natural remedies?",
+                "What foods are beneficial for memory and cognitive function?",
+                "Are there any herbs that can help with memory improvement?",
+                "What natural strategies can help enhance brain function?"
+            ],
+            "responses": [
+                "Mix a powder of Centella Asiatica (Brahmi) with 250 grams of milk and drink it in the morning.",
+                "Soak 10 almonds in water, peel, and grind them, then mix with 250 grams of milk.",
+                "Add a spoonful of licorice powder to milk and drink."
+            ]
+        },
+        {
+            "tag": "Insomnia",
+            "patterns": [
+                "What are the best natural remedies for insomnia?",
+                "How can I improve sleep quality with dietary changes?",
+                "What lifestyle adjustments can help with insomnia?",
+                "Are there specific sleep hygiene practices I should follow?",
+                "How to manage insomnia using natural methods?",
+                "What foods or drinks can promote better sleep?",
+                "How can I improve my sleep routine naturally?",
+                "What are some effective home remedies for insomnia?",
+                "How to create a sleep-friendly environment?",
+                "What relaxation techniques can aid in falling asleep?"
+            ],
+            "responses": [
+                "Before sleeping, wash hands and feet with warm water and massage with mustard oil.",
+                "Mix one spoon of onion juice with honey and consume.",
+                "Take a walk after meals, eat quickly, avoid eating late, and have a light diet.",
+                "Practice meditation for 10 minutes to improve sleep."
+            ]
+        },
+        {
+            "tag": "Pneumonia",
+            "patterns": [
+                "What are the best home remedies for pneumonia?",
+                "How can I support pneumonia recovery with diet and lifestyle?",
+                "Are there natural treatments to complement pneumonia medication?",
+                "How can I manage pneumonia symptoms at home?",
+                "What natural methods can aid in pneumonia recovery?",
+                "How to relieve pneumonia symptoms using home remedies?",
+                "What lifestyle changes can support pneumonia healing?",
+                "Are there dietary recommendations for pneumonia recovery?",
+                "How can I enhance pneumonia treatment with natural approaches?",
+                "What are effective ways to manage pneumonia symptoms naturally?"
+            ],
+            "responses": [
+                "Consume barley bread and porridge to get relief.",
+                "Roast turmeric roots, grind them into powder, and take with water.",
+                "Mix ginger and basil juice with honey and consume.",
+                "For children, dissolve a pinch of cumin in water and give it to relieve accumulated mucus."
+            ]
+        },
+        {
+            "tag": "Common Cold",
+            "patterns": [
+                "What are effective home remedies for the common cold?",
+                "How can I relieve cold symptoms naturally?",
+                "What foods and drinks can help with a common cold?",
+                "How to manage a cold using natural methods?",
+                "What are some home remedies for easing cold symptoms?",
+                "How can I boost my recovery from a cold naturally?",
+                "What natural treatments are effective for the common cold?",
+                "How to soothe a sore throat and congestion from a cold?",
+                "What lifestyle changes can help with cold recovery?",
+                "Are there specific herbal remedies for relieving cold symptoms?"
+            ],
+            "responses": [
+                "Chew 1-2 cloves of raw garlic and drink water.",
+                "Boil 10 mint leaves, 6 black pepper grains, a pinch of rock salt, and 10 basil leaves to make a decoction. Drink it when it is reduced to half.",
+                "Consume amla juice mixed with honey for relief.",
+                "Apply mustard paste to the nose for relief.",
+                "Mix cinnamon and cardamom powder and consume it in the morning."
+            ]
+        },
+        {
+            "tag": "Infections_Tonsillitis",
+            "patterns": [
+                "How can I treat a sore throat or tonsillitis naturally?",
+    "What are some remedies for tonsillitis?",
+    "What home treatments can help with a sore throat?",
+    "How can I alleviate tonsillitis symptoms with natural methods?",
+    "What are effective natural remedies for a sore throat?",
+    "How to manage tonsillitis symptoms at home?",
+    "What lifestyle changes can aid in sore throat recovery?",
+    "Are there specific herbal remedies for treating tonsillitis?",
+    "How can I soothe a sore throat using natural methods?",
+    "What foods and drinks can help relieve tonsillitis symptoms?"
+            ],
+            "responses": [
+                "For infections like sore throat or tonsillitis, swishing half a teaspoon of raw turmeric juice around the mouth can be effective. This remedy is also useful for children."
+            ]
+        },
+        {
+            "tag": "Frequent_Urination",
+            "patterns": [
+                "How can I manage frequent urination naturally?",
+    "What are some remedies for frequent urination?",
+    "How can I manage frequent urination with home remedies?",
+    "What home remedies can help reduce the need to urinate often?",
+    "How to alleviate frequent urination using natural methods?",
+    "What lifestyle changes can help with frequent urination?",
+    "Are there specific foods or drinks that can reduce frequent urination?",
+    "How can I manage urinary frequency with natural treatments?",
+    "What are effective home treatments for frequent urination?",
+    "How to address frequent urination through diet and lifestyle?"
+            ],
+            "responses": [
+                "Dried amla powder with honey, a mixture of black gram and carom seeds with honey, and ginger juice can help manage frequent urination. Drinking cooked dates with milk before bed can also provide relief."
+            ]
+        },
+        {
+            "tag": "Bladder_Inflammation",
+            "patterns": [
+                "What are the symptoms and treatments for bladder inflammation?",
+    "How can I relieve symptoms of cystitis naturally?",
+    "What natural remedies can help alleviate symptoms of cystitis?",
+    "How can I treat bladder inflammation with home remedies?",
+    "What are some effective home treatments for cystitis?",
+    "How to manage symptoms of bladder inflammation naturally?",
+    "What lifestyle changes can support bladder health?",
+    "Are there specific foods or drinks that help with cystitis?",
+    "How can I reduce discomfort from cystitis using natural methods?",
+    "What herbal remedies are effective for bladder inflammation?"
+            ],
+            "responses": [
+                "Drinking radish juice, rice water with mustard seeds, or a decoction of ginger and radish can relieve bladder inflammation. A mixture of radish juice with rock salt can also be beneficial."
+            ]
+        },
+        {
+            "tag": "Kidney_Stones",
+            "patterns": [
+                "What are some natural remedies for kidney stones?",
+    "How can I dissolve kidney stones at home?",
+    "What are some home remedies to help dissolve kidney stones?",
+    "How can I use natural methods to get rid of kidney stones?",
+    "What lifestyle changes can help prevent kidney stones?",
+    "Are there specific foods or drinks that aid in dissolving kidney stones?",
+    "How can I manage kidney stone symptoms with natural treatments?",
+    "What herbal remedies are effective for kidney stones?",
+    "How to alleviate discomfort from kidney stones naturally?",
+    "What are the best home treatments for preventing kidney stones?"
+            ],
+            "responses": [
+                "Drinking water boiled with chenopodium stems, cumin powder with honey, onion juice, or radish seeds powder mixed with honey can help dissolve kidney stones."
+            ]
+        },
+        {
+            "tag": "Sexual_Dysfunction",
+            "patterns": [
+                "How can I overcome sexual dysfunction naturally?",
+    "What are some remedies for premature ejaculation?",
+    "What are natural remedies for overcoming sexual dysfunction?",
+    "How can I improve sexual performance with home treatments?",
+    "What lifestyle changes can enhance sexual health?",
+    "Are there specific exercises or techniques to help with sexual dysfunction?",
+    "How can I address premature ejaculation using natural methods?",
+    "What dietary adjustments can support sexual performance?",
+    "How to manage sexual dysfunction with natural supplements?",
+    "What are effective home remedies for improving sexual function?"
+            ],
+            "responses": [
+                "Eating ripe bananas with ghee, consuming a mixture of ghee, honey, and licorice, or using betel leaves paste can help with sexual dysfunction and premature ejaculation."
+            ]
+        },
+        {
+            "tag": "Nightfall",
+            "patterns": [
+                "What are the natural remedies for nightfall?",
+    "How can I reduce nightfall occurrences?",
+    "How can I manage and prevent nightfall naturally?",
+    "What are the best home remedies for reducing nightfall?",
+    "How can I address nightfall issues with natural methods?",
+    "What lifestyle changes can help with frequent nightfall?",
+    "Are there specific foods or herbs that help with nightfall?",
+    "How to prevent nightfall through diet and lifestyle adjustments?",
+    "What natural supplements might help with managing nightfall?",
+    "How can I improve my sleep quality to reduce nightfall?"
+            ],
+            "responses": [
+                "Drinking water from a copper vessel, eating ripe bananas with honey, or consuming ghee mixed with basil seeds can help manage nightfall. Avoiding sexual fantasies and regular exercise are also beneficial."
+            ]
+        },
+        {
+            "tag": "sexual_performance",
+            "patterns": [
+                "What are some home remedies for impotence?",
+    "How can I improve sexual performance naturally?",
+    "How can I use home remedies to improve sexual performance?",
+    "What are the best natural solutions for overcoming impotence?",
+    "What lifestyle changes can help with impotence?",
+    "Are there specific foods or supplements that aid in treating impotence?",
+    "How can I enhance sexual function with natural treatments?",
+    "What herbal remedies are effective for improving sexual performance?",
+    "How to address impotence with dietary and lifestyle adjustments?",
+    "What exercises or techniques can support sexual health naturally?"
+            ],
+            "responses": [
+                "Consuming garlic cloves with ghee, milk mixed with basil seeds and honey, or a mixture of garlic, honey, and ghee can help overcome impotence. Jimmick root with betel leaves is also effective."
+            ]
+        },
+        {
+            "tag": "Eye_Disorders",
+            "patterns": [
+                "How can I treat eye disorders naturally?",
+    "What are some remedies for eye pain and discomfort?",
+    "How can I use home treatments to improve eye health?",
+    "What are the best natural solutions for eye pain and discomfort?",
+    "How can I alleviate eye strain with natural methods?",
+    "Are there specific foods that support eye health?",
+    "What herbal remedies are effective for eye pain?",
+    "How to manage dry eyes naturally?",
+    "What lifestyle changes can improve eye health?",
+    "How can I soothe tired or irritated eyes using home remedies?"
+            ],
+            "responses": [
+                "Applying onion juice to the eyes, using saliva from the mouth to rinse the eyes, or using amla juice can help treat eye disorders. Clarified butter (ghee) and water mixed with salt can also be used."
+            ]
+        },
+        {
+            "tag": "Sty",
+            "patterns": [
+               "How can I treat a sty naturally?",
+    "What are some remedies for a sty on the eyelid?",
+    "How can I address a sty with natural ingredients?",
+    "What home-based treatments can help with a sty?",
+    "What are effective natural remedies for relieving a sty?",
+    "How can I reduce swelling from a sty using home remedies?",
+    "Are there specific herbal treatments for a sty?",
+    "How to soothe a sty with natural methods?",
+    "What lifestyle changes can prevent styes?",
+    "How can I manage a sty at home?"
+            ],
+            "responses": [
+                "Rinsing eyes with water boiled with cloves, using turmeric water, or applying a mixture of clarified butter and turmeric can help treat a sty."
+            ]
+        },
+        {
+            "tag": "Blindness",
+            "patterns": [
+                "What are the natural treatments for blindness?",
+    "How can I improve vision with home remedies?",
+    "How can I boost my vision using home treatments?",
+    "What are some herbal treatments for better vision?",
+    "How can I support eye health with natural methods?",
+    "What dietary changes can improve vision?",
+    "Are there specific exercises to enhance vision naturally?",
+    "How can I use essential oils to support eye health?",
+    "What natural supplements can help with vision?",
+    "How to manage vision problems with lifestyle adjustments?"
+
+            ],
+            "responses": [
+                "Using basil leaf juice, onion juice, or clarified butter (ghee) in the eyes can help improve vision. Honey in the eyes can also be beneficial."
+            ]
+        },
+        {
+            "tag": "Cataract",
+            "patterns": [
+                "What are some natural remedies for cataract?",
+    "How can I manage cataract with home treatments?",
+    "How can I reduce cataract symptoms using home remedies?",
+    "What are some herbal treatments for cataracts?",
+    "Are there specific dietary changes that can help with cataracts?",
+    "How can I support eye health to prevent cataracts naturally?",
+    "What lifestyle adjustments can reduce cataract progression?",
+    "Can herbal supplements help with cataract management?",
+    "How to use natural methods to improve vision affected by cataracts?",
+    "What are some effective home remedies for cataract relief?"
+            ],
+            "responses": [
+                "Drinking coriander leaf juice, consuming garlic cloves soaked in water, or using clarified butter (ghee) can help with cataract. Ginger powder with sugar is also beneficial."
+            ]
+        },
+        {
+            "tag": "Ear_Disorders",
+            "patterns": [
+                "How can I treat ear disorders naturally?",
+    "What are some remedies for ear infections and pain?",
+    "How can I get rid of ear pain at home?",
+    "What are some herbal remedies for ear infections?",
+    "How can I relieve earache with natural treatments?",
+    "What home remedies can help with ear infections?",
+    "Are there specific oils that can help with ear pain?",
+    "How to manage ear disorders using natural methods?",
+    "What lifestyle changes can improve ear health?",
+    "How can I use essential oils to support ear health?"
+            ],
+            "responses": [
+                "Using mustard oil or onion juice in the ear, or applying a mixture of basil leaf juice with camphor, can help treat ear disorders. Clarified butter (ghee) is also effective."
+            ]
+        },
+        {
+            "tag": "Nasal_Disorders",
+            "patterns": [
+                "What are some remedies for nasal bleeding?",
+    "How can I treat nasal disorders naturally?",
+    "How can I naturally relieve a blocked nose?",
+    "What are natural treatments for sinus infections?",
+    "How can I stop a nosebleed using home remedies?",
+    "What are some effective natural remedies for sinus congestion?",
+    "How can I manage nasal bleeding with natural treatments?",
+    "What home treatments can help with a blocked nose?",
+    "Are there herbal remedies for sinus infections?",
+    "How can I use steam to relieve nasal congestion?"
+            ],
+            "responses": [
+                "Tilting the head back and washing the nose with clean water, using juices from onion or ginger, or applying amla paste can help stop nasal bleeding. Multani mitti paste is also beneficial."
+            ]
+        },
+        {
+            "tag": "knee_pain",
+            "patterns": [
+                "How can I relieve knee pain at home?",
+    "What herbal treatments help with knee pain?",
+    "How can I reduce joint pain in the knees naturally?",
+    "What are some home treatments for arthritis in the knees?",
+    "How can I manage knee pain with natural remedies?",
+    "What exercises can help with knee pain relief?",
+    "Are there specific oils that can ease knee pain?",
+    "How to use hot and cold therapy for knee pain?",
+    "What lifestyle changes can improve knee joint health?",
+    "How can I use dietary changes to support knee health?"
+            ],
+            "responses": [
+                "Knee pain can be caused by drinking water while standing or by undigested food accumulating as raw juice. A sedentary lifestyle may also contribute to knee pain. To treat knee pain, try eating 2 grams of lime with buttermilk or curd for 3 months, or soak fenugreek seeds overnight, grind them, and consume both the seeds and water."
+            ]
+        },
+        {
+            "tag": "aids",
+            "patterns": [
+                "How can I manage AIDS symptoms at home?",
+    "Are there alternative remedies to support AIDS treatment?",
+    "What herbal remedies can boost immunity in AIDS patients?",
+    "How can AIDS be treated naturally alongside medical treatments?",
+    "What home-based strategies can help with AIDS symptoms?",
+    "How can I support my immune system if I have AIDS?",
+    "What natural methods can assist in managing AIDS-related symptoms?",
+    "Are there dietary changes that can help with AIDS symptoms?",
+    "What lifestyle adjustments can benefit AIDS patients?",
+    "How can I use supplements to support AIDS treatment?"
+            ],
+            "responses": [
+                "AIDS is a syndrome where the immune system is compromised, making it difficult to fight other diseases. Patients with AIDS often die from other infections rather than from AIDS itself."
+            ]
+        },
+        {
+            "tag": "sores",
+            "patterns": [
+                "What are natural remedies for treating sores?",
+    "How can I heal skin sores at home?",
+    "What are some home treatments for chronic sores?",
+    "How can I treat open sores naturally?",
+    "What herbal remedies can help with skin sores?",
+    "How can I use essential oils to treat sores?",
+    "What lifestyle changes can support healing of sores?",
+    "How can I prevent sores from becoming infected?",
+    "Are there dietary changes that can aid in sore healing?",
+    "What are some effective home remedies for wound care?"
+            ],
+            "responses": [
+                "Psoriasis is a chronic skin condition with thick layers forming on the skin, appearing as red patches. To treat sores, apply turmeric mixed with honey to the affected area."
+            ]
+        },
+        {
+            "tag": "womens_health",
+            "patterns": [
+                "What are natural remedies for leucorrhea?",
+                "How can I treat white discharge naturally?",
+                "What are home remedies for managing white discharge?",
+                "How can I stop excessive white discharge with natural treatments?",
+                "What foods can help reduce white discharge?",
+                "Are there any herbal teas beneficial for leucorrhea?",
+                "How can I balance hormones naturally to reduce white discharge?",
+                "What lifestyle changes can help manage white discharge?",
+                "Are there any essential oils that help with leucorrhea?",
+                "How can I use Ayurveda to treat white discharge?"
+            ],
+            "responses": [
+                "For white discharge (leucorrhea), try drinking fresh milk mixed with 2 teaspoons of honey, or use dried gooseberry powder mixed with honey. Consuming gooseberry juice with honey may also be beneficial."
+            ]
+        },
+        {
+            "tag": "bleeding",
+            "patterns": [
+                "How can I control bleeding with home remedies?",
+                "What are some herbal treatments for bleeding?",
+                "How do you treat internal bleeding naturally?",
+                "What can I do to stop bleeding quickly using home treatments?",
+                "What are some foods that help with blood clotting?",
+                "Are there any herbs that help with bleeding?",
+                "How can I prevent excessive bleeding at home?",
+                "What natural supplements can aid in blood clotting?",
+                "How can I manage bleeding from cuts naturally?",
+                "What are some effective home remedies for nosebleeds?"
+            ],
+            "responses": [
+                "To address bleeding, fry bottle gourd seeds in ghee and eat it as a halwa on an empty stomach. Mixing half a teaspoon of arrowroot powder with honey can also help."
+            ]
+        },
+        {
+            "tag": "infertility",
+            "patterns": [
+                "What are natural remedies to improve fertility?",
+                "How can I boost fertility with home treatments?",
+                "What are some herbal treatments for infertility?",
+                "How can diet and lifestyle help treat infertility?",
+                "What supplements can enhance fertility naturally?",
+                "Are there any yoga poses that help with fertility?",
+                "How can stress reduction improve fertility?",
+                "What are some dietary changes to boost fertility?",
+                "Can herbal teas help with fertility issues?",
+                "How can acupuncture support fertility?"
+            ],
+            "responses": [
+                "For infertility, try drinking juice made from Dhak tree leaves mixed with milk, or consume a combination of sugar candy and milk. Using sugar candy and betel nut powder can also be helpful."
+            ]
+        },
+        {
+            "tag": "pregnancy",
+            "patterns": [
+                "What are the best dietary practices during pregnancy?",
+                "How can I support a healthy pregnancy with natural remedies?",
+                "What foods are beneficial for the mother and baby during pregnancy?",
+                "What are some essential nutrients for a healthy pregnancy?",
+                "How can I manage morning sickness naturally?",
+                "What are the best herbs for pregnancy support?",
+                "How can I use diet to support fetal development?",
+                "What are some natural ways to prepare for labor?",
+                "How can I maintain energy levels during pregnancy?",
+                "What natural remedies can help with pregnancy-related nausea?"
+            ],
+            "responses": [
+                "During pregnancy, consuming lime with pomegranate juice daily can be beneficial for both the mother and the baby."
+            ]
+        },
+        {
+            "tag": "breech_position",
+            "patterns": [
+                "What are the recommended positions for a breech baby?",
+                "How can I help my baby turn from breech position?",
+                "What are some techniques to correct a breech presentation?",
+                "What is the optimal position for a breech baby to turn before delivery?",
+                "Are there any exercises that can help turn a breech baby?",
+                "What natural methods can assist with a breech birth?",
+                "How can maternal positioning influence breech presentation?",
+                "What is the role of prenatal yoga in correcting breech position?",
+                "Can external cephalic version (ECV) be complemented with home techniques?",
+                "How can I use relaxation techniques to help a breech baby turn?"
+            ],
+            "responses": [
+                "A baby in breech position is a serious condition that can be dangerous for both mother and baby."
+            ]
+        },
+        {
+            "tag": "severe_wounds_gangrene",
+            "patterns": [
+                "How can gangrene be managed with natural remedies?",
+                "What are the best home remedies for severe wound healing?",
+                "How do you address non-healing wounds and infections?",
+                "What steps can be taken to treat gangrene at home?",
+                "What are some herbal treatments for gangrene?",
+                "How can I use essential oils for wound healing?",
+                "What natural disinfectants can be applied to wounds?",
+                "How can diet support healing of severe wounds?",
+                "What are some home remedies for infected wounds?",
+                "How can honey be used in wound care?"
+            ],
+            "responses": [
+                "Apply a paste made from turmeric, neem leaves, and rice powder to open wounds. This paste helps treat severe wounds and gangrene, especially if there is bleeding and the wound is not healing."
+            ]
+        },
+        {
+            "tag": "heart_blockage",
+            "patterns": [
+                "What are the best natural remedies for heart blockage?",
+                "How can you manage heart blockage with lifestyle changes?",
+                "What dietary adjustments can help with heart blockage?",
+                "Are there effective home treatments for heart blockage?",
+                "How can stress management improve heart health?",
+                "What foods support cardiovascular health?",
+                "How can I use herbs to support heart function?",
+                "What are some heart-healthy lifestyle practices?",
+                "How can regular exercise help with heart blockage?",
+                "What are some natural ways to lower cholesterol?"
+            ],
+            "responses": [
+                "Instead of expensive treatments, consider Ayurvedic remedies. Excess acidity in the blood contributes to heart issues, so consuming alkaline foods like bottle gourd can help balance acidity and improve heart health."
+            ]
+        },
+        {
+            "tag": "sprain_treatment",
+            "patterns": [
+                "What are the best home remedies for treating a sprain?",
+                "How can you manage a sprain with natural treatments?",
+                "What steps should be taken for effective sprain recovery?",
+                "How do you treat a sprain using first aid techniques?",
+                "What are some herbal remedies for sprains?",
+                "How can ice and heat therapy help with sprains?",
+                "What are the best stretches for sprain recovery?",
+                "How can you use essential oils for sprain relief?",
+                "What natural anti-inflammatory treatments can help with sprains?",
+                "How can compression and elevation assist with sprain healing?"
+            ],
+            "responses": [
+                "For a sprain, administer 2 drops of Aconite 200 every half hour."
+            ]
+        }
+    ]
+}
